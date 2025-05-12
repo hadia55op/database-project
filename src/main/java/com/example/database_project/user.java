@@ -1,4 +1,4 @@
 package com.example.database_project;
 
-public class test {
+public class user {
 }
